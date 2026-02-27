@@ -1,0 +1,175 @@
+ShadowFox Python Development Internship
+Intern Details
+
+Name: Varun Balmiki
+Program: MSc IT
+Internship: ShadowFox Python Development Internship
+
+
+
+#  Overview
+
+This repository contains all tasks completed during the **ShadowFox Python Development Internship**, progressing from basic Python concepts to advanced real-world data analysis.
+
+The internship focuses on building strong programming fundamentals and applying them to practical projects.
+
+
+
+#  Basic Level Tasks
+
+##  Concepts Covered
+
+* Variables
+* Lists
+* If Conditions
+* For Loops
+* Classes
+
+##  Files
+
+* `basics.py`
+
+##  What I Learned
+Writing clean Python code
+Using loops and conditions
+Creating reusable functions
+Understanding object-oriented programming
+
+---
+
+#  Intermediate Level Tasks
+
+## Projects Completed
+
+### 1️ Hangman Game 🎮
+
+A console-based word guessing game.
+
+### ✅ Features
+
+* Random word selection
+* User input validation
+* Lives tracking
+* Win/Loss detection
+
+###  File
+---
+
+### 2️ Web Scraper 
+
+Extracts data from websites using BeautifulSoup.
+
+###  Features
+
+* Sends HTTP requests
+* Parses HTML content
+* Extracts useful data (quotes/titles)
+
+###  File
+
+
+###  Technologies Used
+
+* requests
+* BeautifulSoup
+
+---
+
+#  Advanced Level Task
+
+##  Cricket Fielding Analysis
+
+###  Description
+
+This project analyzes IPL fielding data to evaluate player performance using a **Performance Score (PS)**.
+
+The program cleans real-world messy data and identifies the best fielder.
+
+---
+
+##  Features
+
+* Reads CSV/Excel data using pandas
+* Cleans and formats data
+* Converts Y/N values to numeric format
+* Calculates Performance Score
+* Identifies best fielder
+
+---
+
+##  Performance Score Formula
+
+```
+PS = Pick + Throw + Runs Saved
+```
+
+(Can be extended to include catches, run-outs, etc.)
+
+---
+
+##  Files
+
+* `Advanced_level_Task_Shadow_Fox.py`
+* `IPL_SAMPLE_DATA.csv`
+
+
+## How to Run
+
+### 1️ Install Requirements
+
+```bash
+pip install pandas
+```
+
+### 2️ Run the program
+
+```bash
+python Advanced_level_Task_Shadow_Fox.py
+
+
+---
+
+## 🏆 Sample Output
+
+```
+Player Performance:
+Rilee Rossouw   10
+Yash Dhull      11
+
+Best Fielder: Yash Dhull
+Score: 11
+```
+
+---
+
+# 🛠 Technologies Used
+
+* Python
+* Pandas
+* BeautifulSoup
+* Requests
+* Git & GitHub
+
+---
+
+# 🚀 Skills Gained
+
+✔ Python programming
+✔ Data cleaning & analysis
+✔ Web scraping
+✔ Problem-solving
+✔ GitHub project management
+
+---
+
+#  Submission
+
+This repository is submitted as part of the ShadowFox Python Development Internship.
+
+---
+
+#  Acknowledgment
+
+Thanks to **ShadowFox** for providing this internship and hands-on learning experience.
+
+---
