@@ -18,7 +18,7 @@ try:
     quotes = soup.find_all("span", class_="text")
     authors = soup.find_all("small", class_="author")
 
-    print("\n📜 Quotes Extracted:\n")
+    print("\n Quotes Extracted:\n")
 
     # Save to TXT file
     with open("quotes.txt", "w", encoding="utf-8") as txt_file:
@@ -40,3 +40,4 @@ try:
 except requests.exceptions.RequestException as e:
     print(" Error occurred while fetching the website:")
     print(e)
+
