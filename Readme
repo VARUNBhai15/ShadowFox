@@ -45,11 +45,11 @@ Understanding object-oriented programming
 
 ## Projects Completed
 
-### 1️ Hangman Game 🎮
+### 1️ Hangman Game 
 
 A console-based word guessing game.
 
-### ✅ Features
+###  Features
 
 * Random word selection
 * User input validation
@@ -133,7 +133,7 @@ python Advanced_level_Task_Shadow_Fox.py
 
 ---
 
-## 🏆 Sample Output
+##  Sample Output
 
 ```
 Player Performance:
